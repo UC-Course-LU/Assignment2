@@ -1,5 +1,5 @@
-# Urban Computing Assignment 1
-This repository contains the first assignment for the Urban Computing course in fall 2021. The excersises can be found in *"Assignment1_Exercises.ipynb"*, to hand in your work you need to push it to GitHub classroom. You can do this via the build-in Git interface of VS Code, or by executing the following commands:
+# Urban Computing Assignment 2
+This repository contains the second assignment for the Urban Computing course in fall 2021. The excersises can be found in *"Assignment_2_SpatialData.ipynb"*, to hand in your work you need to push it to GitHub classroom. You can do this via the build-in Git interface of VS Code, or by executing the following commands:
 ```bash
 git add .
 git commit -m "Commit message here"
@@ -33,7 +33,7 @@ Steps to create our working environment:
 Your can now open the notebook *"Lab1_Exercises.ipynb"* and start working on your assignment.
 
 ## Submission procedure
-The repository must be pushed to the GitHub classroom before **October 5th, at 23:55**. The code must run without issues after we create the development container. This means that any pip packages that are required to run your notebook must be included in the *"requirements.txt"* file.
+The repository must be pushed to the GitHub classroom before **October 26th, at 23:55**. The code must run without issues after we create the development container. This means that any pip packages that are required to run your notebook must be included in the *"requirements.txt"* file.
 
 Follow these steps to make sure all pip dependencies are correctly included:
 - Make sure VS Code is running within the development container (see next to last step at *"Installation"*).
