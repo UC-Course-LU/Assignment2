@@ -30,10 +30,10 @@ Steps to create our working environment:
     - You can check if VS Code is running within the container in the bottom left corner. It should say *"Dev Container: Python 3"*.
 - Reload VS Code to activate linters and formatters: Ctrl/Cmd+Shift+P -> Developer: Reload Window. Alternatively, you can just close and reopen VS Code.
 
-Your can now open the notebook *"Lab1_Exercises.ipynb"* and start working on your assignment.
+Your can now open the notebook *"Assignment_2_SpatialData.ipynb"* and start working on your assignment.
 
 ## Submission procedure
-The repository must be pushed to the GitHub classroom before **November 6th, at 23:59**. The code must run without issues after we create the development container. This means that any pip packages that are required to run your notebook must be included in the *"requirements.txt"* file.
+The repository must be pushed to the GitHub classroom before **October 24th, at 23:59**. The code must run without issues after we create the development container. This means that any pip packages that are required to run your notebook must be included in the *"requirements.txt"* file.
 
 Follow these steps to make sure all pip dependencies are correctly included:
 - Make sure VS Code is running within the development container (see next to last step at *"Installation"*).
