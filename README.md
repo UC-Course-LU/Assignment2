@@ -1,5 +1,5 @@
 # Urban Computing Assignment 2
-This repository contains the second assignment for the Urban Computing course in fall 2025. The excersises can be found in *"Assignment_2_SpatialData.ipynb"*. The file *"lab_04_modified.ipynb"* is used in Task 3. To hand in your work you need to push *"Assignment_2_SpatialData.ipynb"* to GitHub classroom. You can do this via the build-in Git interface of VS Code, or by executing the following commands:
+This repository contains the second assignment for the Urban Computing course in fall 2025. The excersises can be found in *"Assignment_2_SpatialData.ipynb"* and its html version. The file *"lab_04_modified.ipynb"* is used in Task 3. To hand in your work you need to push *"Assignment_2_SpatialData.ipynb"* to GitHub classroom. You can do this via the build-in Git interface of VS Code, or by executing the following commands:
 
 ```bash
 git add .
